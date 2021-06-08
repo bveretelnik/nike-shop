@@ -9,6 +9,8 @@ const products = [
   { id: 2, name: "Nike1", description: "shoes1", price: "10" },
   { id: 3, name: "Nike2", description: "shoes2", price: "15" },
   { id: 4, name: "Nike3", description: "shoes3", price: "20" },
+  { id: 5, name: "Nike4", description: "shoes4", price: "25" },
+  { id: 6, name: "Nike5", description: "shoes5", price: "30" },
 ];
 
 function Products() {
